@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "43958783538",
+    "project_id": "mediguide-22628",
+    "storage_bucket": "mediguide-22628.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43958783538:android:50d52760ef9715c51ab62b",
+        "android_client_info": {
+          "package_name": "com.example.hospital_finder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByP6q4dXy_pMSqngyeMBMpnKHfH3X0bZs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
