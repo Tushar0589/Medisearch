@@ -1,0 +1,8 @@
+0000000000000000000000000000000000000000 645bc566ac5554feb8c23ce3e3499ae344d2e176 ReaperMz <154579732+MedisearchUni@users.noreply.github.com> 1703506125 +0530	clone: from https://github.com/MedisearchUni/MediSearch.git
+645bc566ac5554feb8c23ce3e3499ae344d2e176 b0ce0159bc1376cb6ccd6e55e4833073506ecad0 ReaperMz <154579732+MedisearchUni@users.noreply.github.com> 1703506493 +0530	commit: HospitalFinder_UpdatedUI
+b0ce0159bc1376cb6ccd6e55e4833073506ecad0 3aef5e2c5fc48bea92529d0dc92173322789a212 ReaperMz <154579732+MedisearchUni@users.noreply.github.com> 1703507049 +0530	commit: Removed Api
+3aef5e2c5fc48bea92529d0dc92173322789a212 d92563e70435f428fc9b4690625c0b07cd4f070e ReaperMz <154579732+MedisearchUni@users.noreply.github.com> 1703507088 +0530	pull --ff --recurse-submodules --progress origin: Merge made by the 'ort' strategy.
+d92563e70435f428fc9b4690625c0b07cd4f070e cb902d753f65b400371ab1964eaaa7945612ed64 ReaperMz <154579732+MedisearchUni@users.noreply.github.com> 1703508038 +0530	commit: Removed unwanted comments
+cb902d753f65b400371ab1964eaaa7945612ed64 cd928d43f0a3d0e2319098daa0406f0c820bc2a3 ReaperMz <154579732+MedisearchUni@users.noreply.github.com> 1703510717 +0530	commit: ShowDetailsView_Fixed_in_SearchResults
+cd928d43f0a3d0e2319098daa0406f0c820bc2a3 f1028259c2d81c02f3d97e046a7625bb3d2c1a3a ReaperMz <154579732+MedisearchUni@users.noreply.github.com> 1703516558 +0530	commit: Fixed UI and Search
+f1028259c2d81c02f3d97e046a7625bb3d2c1a3a d7c8ef8ca0e25744996bb75646ce6a1c0ec5669f ReaperMz <154579732+MedisearchUni@users.noreply.github.com> 1703516969 +0530	commit: Minor Display fix
